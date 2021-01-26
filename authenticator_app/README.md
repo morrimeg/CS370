@@ -1,4 +1,4 @@
-##One Time Password App
+## One Time Password App
 
 **Background Information:**
 -This QR code works on Android. I was not able to test it on iOS.
